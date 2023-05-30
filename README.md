@@ -18,4 +18,7 @@ Find out more about me [here](https://davidward.dev/about/).
 Keep up to date with what I'm doing on my website: https://davidward.dev/blog/
 
 <!-- ARTICLES:START -->
+- [Transparency and Vulnerability](https://davidward.dev/posts/transparency-and-vulnerability/)
+- [Packages, Please: A Ludum Dare 53 submission](https://davidward.dev/posts/project-ludum-dare-53/)
+- [Updating space-charts &lpar;Blackbody Radiation interactive&rpar; to Typescript](https://davidward.dev/posts/updating-space-charts-to-typescript/)
 <!-- ARTICLES:END -->

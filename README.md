@@ -1,11 +1,3 @@
-<div aligh="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/david-ward-pdx/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=gendelbendel& style=flat-square&color=blueviolet" alt=""/>
-</div>
 
 ## Hey, I'm David! 👋
 
